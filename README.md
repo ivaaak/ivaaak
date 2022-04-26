@@ -33,33 +33,15 @@
 - **[ASP.NET JWT Authentication Demo](https://github.com/ivaaak/ASP.NET-JWT-Auth)**
 - **[ASP.NET API Demos](https://github.com/ivaaak/CSharp-API)**
 
--------
+
 ## Certificates/Courses:
+**B.Sc. CompSci/Informatik TU-Sofia (German)**
 
 **SoftUni:**
--
-Java Basics->
-JS Basics ->
-JS Advanced (ongoing)
--
-
-C# Basics ->
-C# Fundamentals ->
-C# Advanced ->
-C# OOP
--
-
-MSSQL DB ->
-C# EF Core ->
-C# Data Structures
--
-
-C# Web ->
-C# ASP.NET Core
--
-
-**B.Sc. CompSci/Informatik TU-Sofia (German)** - ongoing
--
+- Java Basics-> JS Basics -> JS Advanced (ongoing)
+- C# Basics -> C# Fundamentals -> C# Advanced -> C# OOP
+- MSSQL DB -> C# EF Core -> C# Data Structures
+- C# Web -> C# ASP.NET Core
 
 
 ## Tech Stack
