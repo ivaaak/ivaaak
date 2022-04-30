@@ -14,6 +14,7 @@
 - **[React Movie Search](https://github.com/ivaaak/React-MovieSearch-SPA)**
 - **[Angular Wikipedia Reader](https://github.com/ivaaak/Angular-Wikipedia-Reader)**
 - **[Vue.js To Do List](https://github.com/ivaaak/VueJS-To-Do-List)**
+- **[Vue.js News Reader](https://github.com/ivaaak/Vue.js-News-Reader)**
 
 **Databases:**
 
@@ -28,10 +29,10 @@
 - **[ASP.NET SignalR Demo](https://github.com/ivaaak/SignalR-Demo/tree/main/SignalRChat)**
 - **[ASP.NET JWT Authentication Demo](https://github.com/ivaaak/ASP.NET-JWT-Auth)**
 - **[ASP.NET API Demos](https://github.com/ivaaak/CSharp-API)**
-
+- **[HTML/CSS Elements](https://github.com/ivaaak/HTML-CSS)**
 
 ## Certificates/Courses:
-**B.Sc. CompSci/Informatik TU-Sofia (German)**(ongoing)
+**B.Sc. CompSci/Informatik TU-Sofia (in German)** - ongoing
 
 **SoftUni:**
 - Java Basics-> JS Basics -> JS Advanced (ongoing)
