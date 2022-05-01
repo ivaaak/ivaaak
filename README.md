@@ -9,6 +9,7 @@
 **Javascript/React/Angular (SPA):**
 
 - **[JS D3.js Meteor Impacts API](https://github.com/ivaaak/JS-D3-Map-Meteor-Impacts)**
+- **[JS Weather App](https://github.com/ivaaak/JS-Weather-App)**
 - **[JS Password Generator](https://github.com/ivaaak/JS-Password-generator)**
 - **[JS Theme Toggler](https://github.com/ivaaak/JS-Theme-Toggle)**
 - **[React Movie Search](https://github.com/ivaaak/React-MovieSearch-SPA)**
