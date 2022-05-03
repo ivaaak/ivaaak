@@ -29,6 +29,7 @@
 - **[C# Unity AR Mobile App](https://github.com/ivaaak/Unity/tree/main/AR%20Furniture%20Test)**
 - **[C# GraphQL Api Demo](https://github.com/ivaaak/GraphQL-Api-Demo)**
 - **[ASP.NET SignalR Demo](https://github.com/ivaaak/SignalR-Demo/tree/main/SignalRChat)**
+- **[ASP.NET Toastr Demo](https://github.com/ivaaak/ASP.NET-Toastr-Demo)**
 - **[ASP.NET JWT Authentication Demo](https://github.com/ivaaak/ASP.NET-JWT-Auth)**
 - **[ASP.NET API Demos](https://github.com/ivaaak/CSharp-API)**
 - **[HTML/CSS Elements](https://github.com/ivaaak/HTML-CSS)**
