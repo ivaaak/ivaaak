@@ -24,6 +24,7 @@
 - **[SQL Queries](https://github.com/ivaaak/MS-SQL)**
 - **[C# MongoDB Demo](https://github.com/ivaaak/CSharp-MongoDB-Demo)**
 - **[C# Redis Demo](https://github.com/ivaaak/CSharp-Redis-Demo)**
+- **[C# CosmosDB Demo](https://github.com/ivaaak/CSharp-Cosmos-DB-Demo)**
 
 **Misc:**
 - **[C# Unity AR Mobile App](https://github.com/ivaaak/Unity/tree/main/AR%20Furniture%20Test)**
