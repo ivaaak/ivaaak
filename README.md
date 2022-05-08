@@ -8,12 +8,11 @@
 
 **Javascript/React/Angular (SPA):**
 
-- **[JS D3.js Meteor Impacts](https://github.com/ivaaak/JS-D3-Map-Meteor-Impacts)** ---- **[JS Weather App](https://github.com/ivaaak/JS-Weather-App)**
-- **[JS Github User Search](https://github.com/ivaaak/JS-Github-User-Search)** ------ **[JS Password Generator](https://github.com/ivaaak/JS-Password-generator)**
-- **[JS Theme Toggler](https://github.com/ivaaak/JS-Theme-Toggle)**
-- **[React Movie Search](https://github.com/ivaaak/React-MovieSearch-SPA)** --------- **[React Markdown Preview](https://github.com/ivaaak/React-Markdown-Preview)** 
-- **[Angular Wikipedia Reader](https://github.com/ivaaak/Angular-Wikipedia-Reader)**
-- **[Vue.js To Do List](https://github.com/ivaaak/VueJS-To-Do-List)** ------------- **[Vue.js News Reader](https://github.com/ivaaak/Vue.js-News-Reader)**
+- **JS -------- [D3.js Meteor Impacts](https://github.com/ivaaak/JS-D3-Map-Meteor-Impacts)** ---- **[Weather App](https://github.com/ivaaak/JS-Weather-App)** ---- **[Github User Search](https://github.com/ivaaak/JS-Github-User-Search)** 
+- **JS -------- [Password Generator](https://github.com/ivaaak/JS-Password-generator)** ----- **[Theme Toggler](https://github.com/ivaaak/JS-Theme-Toggle)**
+- **React ----  [Markdown Preview](https://github.com/ivaaak/React-Markdown-Preview)** ------ **[Movie Search](https://github.com/ivaaak/React-MovieSearch-SPA)** ---- **[Rating Component](https://github.com/ivaaak/React-Rating-Component)**
+- **Angular - [Wikipedia Reader](https://github.com/ivaaak/Angular-Wikipedia-Reader)**
+- **Vue.js --- [To Do List](https://github.com/ivaaak/VueJS-To-Do-List)** --------- **[News Reader](https://github.com/ivaaak/Vue.js-News-Reader)**
 
 **Databases:**
 
