@@ -2,6 +2,7 @@
 
 - **ASP.NET -- [Movie Manager](https://github.com/ivaaak/ASP.NET-MovieManager)**
 - **C# --------- [C# Web Server](https://github.com/ivaaak/CSharp-Web-Server/tree/main/HTTP%20Server%20Basic) -------------- [C# MVC Apps](https://github.com/ivaaak/CSharp-Web-Server) ------- [C# Data Structures](https://github.com/ivaaak/CSharp-Data-Structures)**
+- **C# --------- [C# Design Patterns](https://github.com/ivaaak/CSharp-Design-Patterns) (fork)**
 - **DB  --------- [C# EF Core Databases](https://github.com/ivaaak/CSharp-DB-EF-Core-Projects) ------ [SQL Queries](https://github.com/ivaaak/MS-SQL)**
 - **DB  --------- [C# MongoDB Demo](https://github.com/ivaaak/CSharp-MongoDB-Demo) -------- [C# Redis Demo](https://github.com/ivaaak/CSharp-Redis-Demo) ----- [C# CosmosDB Demo](https://github.com/ivaaak/CSharp-Cosmos-DB-Demo)**
 - **Misc ------- [Unity AR Mobile App](https://github.com/ivaaak/Unity/tree/main/AR%20Furniture%20Test) ------- [C# GraphQL Api Demo](https://github.com/ivaaak/GraphQL-Api-Demo)**
