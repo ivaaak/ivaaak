@@ -10,7 +10,7 @@
 - **------------- Javascript / React / Angular / Vue - SPA Apps -------------------**
 - **JS ---------- [D3.js Meteor Impacts](https://github.com/ivaaak/JS-D3-Map-Meteor-Impacts) ------- [Weather App](https://github.com/ivaaak/JS-Weather-App) ------- [Github User Search](https://github.com/ivaaak/JS-Github-User-Search)** 
 - **JS ---------- [Password Generator](https://github.com/ivaaak/JS-Password-generator) -------- [Theme Toggler](https://github.com/ivaaak/JS-Theme-Toggle)**
-- **React ------  [Markdown](https://github.com/ivaaak/React-Markdown-Preview) ----- [Movie Search](https://github.com/ivaaak/React-MovieSearch-SPA) ----- [Rating](https://github.com/ivaaak/React-Rating-Component) ----- [Advice from API](https://github.com/ivaaak/React-Advice-Generator)**
+- **React ------  [Markdown](https://github.com/ivaaak/React-Markdown-Preview) ---- [Movie Search](https://github.com/ivaaak/React-MovieSearch-SPA) ---- [Rating](https://github.com/ivaaak/React-Rating-Component) ---- [Advice](https://github.com/ivaaak/React-Advice-Generator) ---- [Pagination](https://github.com/ivaaak/React-Pagination-Github)**
 - **Angular ----[Wikipedia Reader](https://github.com/ivaaak/Angular-Wikipedia-Reader)**
 - **Vue.js ------ [To Do List](https://github.com/ivaaak/VueJS-To-Do-List) ------ [News Reader](https://github.com/ivaaak/Vue.js-News-Reader)**
 - **HTML/CSS - [Columns](https://github.com/ivaaak/HTML-CSS/tree/main/HTML%20-%20COLUMNS%20W%20HORIZONTAL%20SCROLL) ------- [Login Form](https://github.com/ivaaak/HTML-CSS/tree/main/HTML%20-%20LOGIN%20FORM%20LOCK/Login%20Form) ------ [QR Code](https://github.com/ivaaak/HTML-CSS/tree/main/HTML%20-%20QR%20CODE%20COMPONENT)**
