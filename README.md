@@ -2,9 +2,9 @@
 
 - **ASP.NET--- [Movie Manager](https://github.com/ivaaak/ASP.NET-MovieManager)**
 - **C# ---------  [C# Data Structures](https://github.com/ivaaak/CSharp-Data-Structures) ---------- [C# Web Server](https://github.com/ivaaak/CSharp-Web-Server/tree/main/HTTP%20Server%20Basic) ------- [C# MVC Apps](https://github.com/ivaaak/CSharp-Web-Server) ----- [C# Design Patterns](https://github.com/ivaaak/CSharp-Design-Patterns)** (fork)
-- **DB  --------- [SQL Queries and Exams](https://github.com/ivaaak/MS-SQL) ---- [C# EF Core DB Projects](https://github.com/ivaaak/CSharp-DB-EF-Core-Projects)**
+- **DB  --------- [SQL Queries and Exams](https://github.com/ivaaak/MS-SQL) ---- [C# EF Core DB Projects (MySQL)](https://github.com/ivaaak/CSharp-DB-EF-Core-Projects)**
 - **DB  --------- [C# MongoDB Demo](https://github.com/ivaaak/CSharp-MongoDB-Demo) -------- [C# Redis Demo](https://github.com/ivaaak/CSharp-Redis-Demo) ------- [C# CosmosDB Demo](https://github.com/ivaaak/CSharp-Cosmos-DB-Demo)**
-- **Misc ------- [Unity AR Mobile App](https://github.com/ivaaak/Unity/tree/main/AR%20Furniture%20Test) ------- [C# GraphQL Api Demo](https://github.com/ivaaak/GraphQL-Api-Demo)**
+- **Misc ------- [Unity AR Mobile App](https://github.com/ivaaak/Unity/tree/main/AR%20Furniture%20Test) ------- [C# GraphQL Api](https://github.com/ivaaak/GraphQL-Api-Demo) ------ [C# Testing](https://github.com/ivaaak/CSharp-Testing)**
 - **Misc  ------- [ASP.NET SignalR](https://github.com/ivaaak/SignalR-Demo/tree/main/SignalRChat) ------------ [ASP.NET Toastr](https://github.com/ivaaak/ASP.NET-Toastr-Demo) ------- [ASP.NET JWT Auth](https://github.com/ivaaak/ASP.NET-JWT-Auth) ----- [ASP.NET APIs](https://github.com/ivaaak/CSharp-API)**
 - **---------------------------- Javascript / React / Angular / Vue - SPA Apps ----------------------------------**
 - **JS ---------- [D3.js Meteor Impacts](https://github.com/ivaaak/JS-D3-Map-Meteor-Impacts) ------- [Weather App](https://github.com/ivaaak/JS-Weather-App) ------- [Github User Search](https://github.com/ivaaak/JS-Github-User-Search)** 
