@@ -13,8 +13,6 @@
 - **React ------  [Markdown](https://github.com/ivaaak/React-Markdown-Preview) ---- [Movie Search](https://github.com/ivaaak/React-MovieSearch-SPA) ---- [Rating](https://github.com/ivaaak/React-Rating-Component) ---- [Advice](https://github.com/ivaaak/React-Advice-Generator) ---- [Pagination](https://github.com/ivaaak/React-Pagination-Github) ---- [Hacker News](https://github.com/ivaaak/React-Hacker-News)**
 - **Angular ----[Wikipedia Reader](https://github.com/ivaaak/Angular-Wikipedia-Reader)**
 - **Vue.js ------ [To Do List](https://github.com/ivaaak/VueJS-To-Do-List) ------ [News Reader](https://github.com/ivaaak/Vue.js-News-Reader)**
-- **HTML/CSS - [Columns](https://github.com/ivaaak/HTML-CSS/tree/main/HTML%20-%20COLUMNS%20W%20HORIZONTAL%20SCROLL) ------- [Login Form](https://github.com/ivaaak/HTML-CSS/tree/main/HTML%20-%20LOGIN%20FORM%20LOCK/Login%20Form) ------ [QR Code](https://github.com/ivaaak/HTML-CSS/tree/main/HTML%20-%20QR%20CODE%20COMPONENT)**
-
 
 ## Certificates/Courses:
 **B.Sc. CompSci/Informatik TU-Sofia (in German)** - ongoing
