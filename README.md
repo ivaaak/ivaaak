@@ -14,17 +14,14 @@
 - **Angular ----[Wikipedia Reader](https://github.com/ivaaak/Angular-Wikipedia-Reader)**
 - **Vue.js ------ [To Do List](https://github.com/ivaaak/VueJS-To-Do-List) ------ [News Reader](https://github.com/ivaaak/Vue.js-News-Reader)**
 
-## Certificates/Courses:
-**B.Sc. Computer Science/Informatik (in German) - FDIBA TU-Sofia** - ongoing
-
-**SoftUni:**
-````
+<pre>**B.Sc. Computer Science/Informatik (in German) - FDIBA TU-Sofia** - ongoing</pre>
+<pre>
+<b>Softuni:</b>
 - Java / JS Basics -> JS Advanced/Applications (ongoing)
 - C# Fundamentals -> C# Advanced -> C# OOP
 - MSSQL DB -> C# EF Core -> C# Data Structures
 - C# Web -> C# ASP.NET Core
-````
-## Tech Stack
+</pre>
 <pre>
 <b>Backend:</b> ASP.NET Core / C#, Java, Node (learning currently)
 <b>Frontend:</b> HTML, CSS, Bootstrap, Javascript, (a bit of) React / Angular
