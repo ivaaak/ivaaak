@@ -23,14 +23,11 @@
 - C# Fundamentals -> C# Advanced -> C# OOP
 - MSSQL DB -> C# EF Core -> C# Data Structures
 - C# Web -> C# ASP.NET Core
-
 ````
 ## Tech Stack
-
-**Backend:**  ASP.NET Core / C#, Java, Node (learning currently)
-
-**Frontend:** HTML, CSS, Bootstrap, Javascript, (a bit of) React / Angular
-
-**DB:** MSSQL, MongoDB, Postgre, Redis, Cosmos (learning)
-
-**Misc Technologies:** XML/JSON, Python, Lua (Rainmeter Skins), Unity, Docker, Azure, Postman
+<pre>
+<b>Backend:</b> ASP.NET Core / C#, Java, Node (learning currently)
+<b>Frontend:</b> HTML, CSS, Bootstrap, Javascript, (a bit of) React / Angular
+<b>DB:</b> MSSQL, MongoDB, Postgre, Redis, Cosmos (learning)
+<b>Misc:</b> XML/JSON, Python, Lua (Rainmeter Skins), Unity, Docker, Azure, Postman
+</pre>
