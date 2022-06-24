@@ -14,9 +14,9 @@
 - **Angular ----[Wikipedia Reader](https://github.com/ivaaak/Angular-Wikipedia-Reader)**
 - **Vue.js ------ [To Do List](https://github.com/ivaaak/VueJS-To-Do-List) ------ [News Reader](https://github.com/ivaaak/Vue.js-News-Reader)**
 
-<pre>**B.Sc. Computer Science/Informatik (in German) - FDIBA TU-Sofia** - ongoing</pre>
+<pre><b>B.Sc. Computer Science/Informatik (in German) - FDIBA TU-Sofia</b> - ongoing</pre>
 <pre>
-<b>Softuni:</b>
+<b>SoftUni:</b>
 - Java / JS Basics -> JS Advanced/Applications (ongoing)
 - C# Fundamentals -> C# Advanced -> C# OOP
 - MSSQL DB -> C# EF Core -> C# Data Structures
