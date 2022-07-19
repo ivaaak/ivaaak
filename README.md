@@ -1,4 +1,4 @@
-- **ASP.NET--- [Movie Manager](https://github.com/ivaaak/ASP.NET-MovieManager) --------------[RealEstate](https://github.com/ivaaak/ASP.NET-RealEstate)-WIP**
+- **.NET--- [Movie Manager](https://github.com/ivaaak/ASP.NET-MovieManager) --------------[RealEstate](https://github.com/ivaaak/ASP.NET-RealEstate)-WIP**
 - **C# ---------  [C# Data Structures](https://github.com/ivaaak/CSharp-Data-Structures) ---------- [C# Web Server](https://github.com/ivaaak/CSharp-Web-Server/tree/main/HTTP%20Server%20Basic) ------- [C# MVC Apps](https://github.com/ivaaak/CSharp-Web-Server) ----- [C# Design Patterns](https://github.com/ivaaak/CSharp-Design-Patterns)** (fork)
 - **DB  --------- [SQL Queries and Exams](https://github.com/ivaaak/MS-SQL) ---- [C# EF Core DB Projects (MySQL)](https://github.com/ivaaak/CSharp-DB-EF-Core-Projects) ---------- [C# PostgreSQL Demo](https://github.com/ivaaak/CSharp-PostgreSQL-Repo-Demo)**
 - **DB  --------- [C# MongoDB Demo](https://github.com/ivaaak/CSharp-MongoDB-Demo) -------- [C# Redis Demo](https://github.com/ivaaak/CSharp-Redis-Demo) ------- [C# CosmosDB Demo](https://github.com/ivaaak/CSharp-Cosmos-DB-Demo)**
