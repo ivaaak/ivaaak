@@ -1,9 +1,9 @@
-- **.NET ------ [Movie Manager](https://github.com/ivaaak/ASP.NET-MovieManager) --------------[RealEstate](https://github.com/ivaaak/ASP.NET-RealEstate)-WIP**
+- **.NET ------- [Movie Manager](https://github.com/ivaaak/ASP.NET-MovieManager) --------------[RealEstate](https://github.com/ivaaak/ASP.NET-RealEstate)-WIP**
 - **C# ---------  [C# Data Structures](https://github.com/ivaaak/CSharp-Data-Structures) ---------- [C# Web Server](https://github.com/ivaaak/CSharp-Web-Server/tree/main/HTTP%20Server%20Basic) ------- [C# MVC Apps](https://github.com/ivaaak/CSharp-Web-Server) ----- [C# Design Patterns](https://github.com/ivaaak/CSharp-Design-Patterns)** (fork)
 - **DB  --------- [SQL Queries and Exams](https://github.com/ivaaak/MS-SQL) ---- [C# EF Core DB Projects (MySQL)](https://github.com/ivaaak/CSharp-DB-EF-Core-Projects) ---------- [C# PostgreSQL Demo](https://github.com/ivaaak/CSharp-PostgreSQL-Repo-Demo)**
 - **DB  --------- [C# MongoDB Demo](https://github.com/ivaaak/CSharp-MongoDB-Demo) -------- [C# Redis Demo](https://github.com/ivaaak/CSharp-Redis-Demo) ------- [C# CosmosDB Demo](https://github.com/ivaaak/CSharp-Cosmos-DB-Demo)**
 - **Misc ------- [Unity AR Mobile App](https://github.com/ivaaak/Unity/tree/main/AR%20Furniture%20Test) ------- [C# GraphQL](https://github.com/ivaaak/GraphQL-Api-Demo) ------ [C# Testing](https://github.com/ivaaak/CSharp-Testing) --------- [Logging - Serilog / ElasticSearch / Kibana](https://github.com/ivaaak/CSharp-ElasticSearch-Kibana)**
-- **Misc  ------- [ASP.NET SignalR](https://github.com/ivaaak/SignalR-Demo) ------------ [ASP.NET Toastr](https://github.com/ivaaak/ASP.NET-Toastr-Demo) -------- [ASP.NET JWT Auth](https://github.com/ivaaak/JWT-Auth/tree/main/ASP.NET%20JWT%20Auth%20Demo) -------- [Docker](https://github.com/ivaaak/Docker)** (fork)
+- **Misc  ------- [.NET SignalR](https://github.com/ivaaak/SignalR-Demo) --------------- [.NET Toastr](https://github.com/ivaaak/ASP.NET-Toastr-Demo) ----------- [.NET JWT Auth](https://github.com/ivaaak/JWT-Auth/tree/main/ASP.NET%20JWT%20Auth%20Demo) -------- [Docker](https://github.com/ivaaak/Docker)** (fork)
 - **APIs ------- [Minimal API JWT Auth](https://github.com/ivaaak/CSharp-API/tree/main/ASP.NET%20MinimalAPI%20Auth) ------- [Superhero API](https://github.com/ivaaak/CSharp-API/tree/main/ASP.NET%20SuperHeroAPI) -------- [Book API](https://github.com/ivaaak/CSharp-API/tree/main/ASP.NET%20BookAPI) -----------  [Persistence -  Polly Fault Handling](https://github.com/ivaaak/CSharp-Polly-Request-Response)**
 - **---------------------------- Javascript / React / Angular / Vue - SPA Apps ----------------------------------**
 - **JS ---------- [D3.js Meteor Impacts](https://github.com/ivaaak/JS-D3-Map-Meteor-Impacts) ------- [JS Advanced Exams](https://github.com/ivaaak/JS-Advanced-Exams) ------- [Github User Search](https://github.com/ivaaak/JS-Github-User-Search)** 
@@ -18,9 +18,9 @@
 - Java / JS Basics -> JS Advanced/Applications (ongoing)
 - C# Fundamentals -> C# Advanced -> C# OOP
 - MSSQL DB -> C# EF Core -> C# Data Structures
-- C# Web -> C# ASP.NET Core
+- C# Web -> C# .NET Core
 
-<b>Backend:</b> ASP.NET Core / C#, Java, Node (learning currently)
+<b>Backend:</b> .NET Core / C#, Java, Node (learning currently)
 <b>Frontend:</b> HTML, CSS, Bootstrap, Javascript, (a bit of) React / Angular
 <b>DB:</b> MSSQL, MongoDB, Postgre, Redis, Cosmos (learning)
 <b>Misc:</b> XML/JSON, Python, Lua (Rainmeter Skins), Unity, Docker, Azure, Postman
