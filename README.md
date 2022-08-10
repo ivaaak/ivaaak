@@ -21,7 +21,7 @@
 - C# Web -> C# .NET Core
 
 <b>Backend:</b> .NET Core / C#, Java, Node (learning currently)
-<b>Frontend:</b> HTML, CSS, Bootstrap, Javascript, (a bit of) React / Angular
+<b>Frontend:</b> React, Javascript, HTML, CSS, Bootstrap, some Angular
 <b>DB:</b> MSSQL, MongoDB, Postgre, Redis, Cosmos (learning)
 <b>Misc:</b> XML/JSON, Python, Lua (Rainmeter Skins), Unity, Docker, Azure, Postman
 </pre>
