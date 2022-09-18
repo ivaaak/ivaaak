@@ -15,13 +15,13 @@
 <pre><b>B.Sc. Computer Science/Informatik (in German) - FDIBA TU-Sofia</b> - ongoing
 
 <b>SoftUni:</b>
-- Java / JS Basics -> JS Advanced/Applications (ongoing)
+- Java / JS Basics -> JS Advanced/Applications
 - C# Fundamentals -> C# Advanced -> C# OOP
 - MSSQL DB -> C# EF Core -> C# Data Structures
 - C# Web -> C# .NET Core
 
-<b>Backend:</b> .NET Core / C#, Java, Node (learning currently)
-<b>Frontend:</b> React, Javascript, HTML, CSS, Bootstrap, some Angular
-<b>DB:</b> MSSQL, MongoDB, Postgre, Redis, Cosmos (learning)
-<b>Misc:</b> XML/JSON, Python, Lua (Rainmeter Skins), Unity, Docker, Azure, Postman
+<b>Backend:</b> .NET Core (C#), Spring (Java), Node
+<b>Frontend:</b> React, Javascript, TypeScript, HTML, CSS, Bootstrap
+<b>DB:</b> MSSQL/MySQL, MongoDB, Postgre, Redis, Cosmos
+<b>Misc:</b> XML/JSON, Python, Lua, Unity, Docker, Azure, Postman
 </pre>
