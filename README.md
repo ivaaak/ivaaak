@@ -12,8 +12,8 @@
 - **Angular ----[Wikipedia Reader](https://github.com/ivaaak/Angular-Wikipedia-Reader)**
 - **Vue.js ------ [To Do List](https://github.com/ivaaak/VueJS-To-Do-List) ------ [News Reader](https://github.com/ivaaak/Vue.js-News-Reader)**
 
-<pre><b>B.Sc. Computer Science/Informatik (in German) - FDIBA TU-Sofia</b>
-<b>Master's -Informatik (in German) - FDIBA TU-Sofia (ongoing)</b>
+<pre><b>Bachelors - Comp. Sci./Informatik (in German) - FDIBA TU-Sofia</b>
+<b>Masters - Informatik (in German) - FDIBA TU-Sofia (ongoing)</b>
 
 <b>SoftUni:</b>
 - Java / JS Basics -> JS Advanced/Applications
