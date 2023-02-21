@@ -10,7 +10,7 @@
 - **JS ---------- [Password Generator](https://github.com/ivaaak/JS-Password-generator) -------- [Theme Toggler](https://github.com/ivaaak/JS-Theme-Toggle) ------- [Weather App](https://github.com/ivaaak/JS-Weather-App) ----- [JS Login/Auth](https://github.com/ivaaak/JS-Login-Auth) ----- [GraphQL Fetch](https://github.com/ivaaak/GraphQL-Demo/tree/main/JS%20GraphQL%20Client%20Fetch)**
 - **React ------  [Markdown](https://github.com/ivaaak/React-Markdown-Preview) ------- [Movie Search](https://github.com/ivaaak/React-MovieSearch-SPA) ------- [Rating](https://github.com/ivaaak/React-Rating-Component) ------- [Advice Generator](https://github.com/ivaaak/React-Advice-Generator)**
 - **React ------ [Pagination](https://github.com/ivaaak/React-Pagination-Github) ------- [Hacker News](https://github.com/ivaaak/React-Hacker-News) ------- [GamesPlay](https://github.com/ivaaak/React-Games-Play) ------- [React Playground](https://github.com/ivaaak/React-Playground)**
-- **Angular --- [Angular Wikipedia API Viewer/Search](https://github.com/ivaaak/Angular-Wikipedia-Reader)**
+- **Angular --- [Tour of Heroes](https://github.com/ivaaak/Angular-Tour-Of-Heroes) ------ [Wikipedia API Viewer/Search](https://github.com/ivaaak/Angular-Wikipedia-Reader)**
 - **Vue --------[Vue To Do List](https://github.com/ivaaak/VueJS-To-Do-List) ------ [Vue News Reader](https://github.com/ivaaak/Vue.js-News-Reader)**
 
 
