@@ -1,4 +1,4 @@
-- **.NET ------- [Movie Manager](https://github.com/ivaaak/ASP.NET-MovieManager) --------- [RealEstate API](https://github.com/ivaaak/ASP.NET-RealEstate) -------- [API Gateway](https://github.com/ivaaak/.NET-Ocelot-API-Gateway)**
+- **.NET ------- [Movie Manager](https://github.com/ivaaak/ASP.NET-MovieManager) ----- [RealEstate API](https://github.com/ivaaak/ASP.NET-RealEstate) [+ MicroFrontends](https://github.com/ivaaak/RealEstate-Frontend) ----- [API Gateway](https://github.com/ivaaak/.NET-Ocelot-API-Gateway) ----- [ML.NET Movie Recommend](https://github.com/ivaaak/ML-MovieRecommend)**
 - **C# ---------  [C# Data Structures](https://github.com/ivaaak/CSharp-Data-Structures) ---------- [C# Web Server](https://github.com/ivaaak/CSharp-Web-Server/tree/main/HTTP%20Server%20Basic) ------- [C# Simple MVC Apps](https://github.com/ivaaak/CSharp-Web-Server) ----- [C# Design Patterns](https://github.com/ivaaak/CSharp-Design-Patterns)** (fork)
 - **DB  --------- [SQL Queries and Exams](https://github.com/ivaaak/MS-SQL) ---- [C# EF Core DB Projects (MySQL)](https://github.com/ivaaak/CSharp-DB-EF-Core-Projects) ---------- [C# PostgreSQL](https://github.com/ivaaak/CSharp-PostgreSQL-Repo-Demo)**
 - **Misc  ------- [C# MongoDB](https://github.com/ivaaak/CSharp-MongoDB-Demo) -------- [C# Redis](https://github.com/ivaaak/CSharp-Redis-Demo) ------- [C# CosmosDB](https://github.com/ivaaak/CSharp-Cosmos-DB-Demo) ------- [C# RabbitMQ](https://github.com/ivaaak/CSharp-RabbitMQ)-------- [Docker /Compose/](https://github.com/ivaaak/Docker)** (fork)
@@ -23,7 +23,7 @@
 - MSSQL DB -> C# EF Core -> C# Data Structures
 - C# Web -> C# .NET Core (Web Advanced)
 
-<b>Backend:</b> .NET (C#), Spring (Java)
+<b>Backend:</b> .NET (C#), (barely any) Spring (Java)
 <b>Frontend:</b> React, Angular, Javascript, TypeScript, HTML, CSS/SCSS, Bootstrap
 <b>DB:</b> MSSQL/MySQL, MongoDB, Postgre, Redis, Cosmos
 <b>Misc:</b> XML/JSON, Python, Lua, Unity, Docker, Azure, Postman
