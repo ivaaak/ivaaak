@@ -29,3 +29,5 @@ SoftUni Courses:
 - MSSQL DB -> C# EF Core -> C# Data Structures
 - C# Web -> C# .NET Core (Web Advanced)
 </pre>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ivaaak&hide=issues,contribs,prs&show_icons=true&show=,prs_merged_percentage&theme=radical&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
