@@ -17,20 +17,18 @@
 - **DBs  ----- [SQL Queries](https://github.com/ivaaak/MS-SQL) ----- [EF Core](https://github.com/ivaaak/CSharp-DB-EF-Core-Projects) ----- [Postgre](https://github.com/ivaaak/CSharp-PostgreSQL-Repo-Demo) ----- [MongoDB](https://github.com/ivaaak/CSharp-MongoDB-Demo) ----- [Redis](https://github.com/ivaaak/CSharp-Redis-Demo) ----- [CosmosDB](https://github.com/ivaaak/CSharp-Cosmos-DB-Demo)**
 
 <pre>
-Education:
-<b>Bachelors - Comp. Sci./Informatik (in German) - FDIBA TU-Sofia</b>
-<b>Masters - Informatik (in German) - FDIBA TU-Sofia (ongoing)</b>
 
 Skills:
-<b>Backend:</b> .NET (C#),  Express(Node/TS), /a little bit of/ Spring (Java)
+<b>Backend:</b> .NET (C#),  Express(Node/TS), Spring (Java)
 <b>Frontend:</b> React, Angular, Vue, Javascript, TypeScript, HTML, CSS/SCSS, Bootstrap
 <b>DB:</b> MSSQL/MySQL, MongoDB, PostgreSQL, Redis, Cosmos, 
 <b>Misc:</b> XML/JSON, Python, Lua, Unity, Docker, Azure, Postman, RabbitMQ, Sharepoint
 <b>Currently Interested in:</b> Web3, Solidity, Ethers.js / Web3.js, LLMs / Transformers
 
+Education:
+<b>Bachelors - Comp. Sci./Informatik (in German) - FDIBA TU-Sofia</b>
+<b>Masters - Informatik (in German) - FDIBA TU-Sofia (ongoing)</b>
+
 SoftUni Courses: 
-- Java: Basics
-- JS: Basics / Advanced/Applications
-- C#: Fundamentals ->  Advanced ->  OOP -> Data Structures -> Web -> Web Advanced
-- DB: MSSQL DB -> EF Core 
+- Java Basics, Javascript/React: Full Path, C#/.NET: Full Path, Databases
 </pre>
