@@ -1,4 +1,4 @@
-**[ -------------------------------- 🔗 A quirky site showcasing my projects 🔗 --------------------------------  ](https://ivaaak.github.io/Portfolio/)**
+**[ -------------------------------- 🔗 Portfolio showcasing my projects 🔗 --------------------------------  ](https://ivaaak.github.io/Portfolio/)**
 - **.NET ---- [RealEstate API](https://github.com/ivaaak/ASP.NET-RealEstate) [+ Frontend](https://github.com/ivaaak/RealEstate-FE) ----- [Movie Manager](https://github.com/ivaaak/ASP.NET-MovieManager) ----- [ML.NET Movie Recommend](https://github.com/ivaaak/ML-MovieRecommend) ----- [API Gateway](https://github.com/ivaaak/.NET-Ocelot-API-Gateway)**
 - **Misc ----  [React + Express + StableDiffusion - Architecture AI](https://github.com/ivaaak/ArchAI) ----- [React + Express + NodeLlamaCPP - Financial AI](https://github.com/ivaaak/FinAI)**
 - **Misc ----  [React + Java + C/Arduino - IoT](https://github.com/ivaaak/KeepersOfTheGate) ----- [Web3 Tokenization](https://github.com/ivaaak/Web3-Tokenization) ----- [Leetcode](https://github.com/ivaaak/Leetcode-Typescript) ----- [Parametric Surfaces](https://github.com/ivaaak/Parametric-Surfaces)**
